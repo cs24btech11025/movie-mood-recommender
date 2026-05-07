@@ -9,6 +9,22 @@ A python script that recommends 3 movies based on your mood and the reasons why 
 you describe your mood in plain english and it recommends 3 movies which fits that criteria and gives reason why it picked each of them
 
 ---
+## Example
+ 
+```
+What kind of movies are you in the mood for? saddd. i want to cryy
+ 
+1. Grave of the Fireflies (1988)
+This devastating animated masterpiece follows two siblings struggling to survive
+in Japan during WWII and is widely considered one of the most heart-wrenching films ever made.
+ 
+2. Manchester by the Sea (2016)
+A raw and realistic portrayal of grief that stays with you long after the credits roll.
+ 
+3. The Fault in Our Stars (2014)
+A total "ugly cry" experience that balances sweetness with profound heartbreak.
+```
+---
 ## How it works:
 ```
 You type your mood
