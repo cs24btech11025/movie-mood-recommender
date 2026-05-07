@@ -1,4 +1,4 @@
-## Movie-mood-recommender
+# Movie-mood-recommender
 
 A python script that recommends 3 movies based on your mood and the reasons why they're the best 3 movies that fit the criteria
 
